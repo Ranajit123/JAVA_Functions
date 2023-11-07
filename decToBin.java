@@ -1,4 +1,3 @@
-package Functions;
 
 public class decToBin {
   public static void dToB(int n){

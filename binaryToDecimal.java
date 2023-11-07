@@ -1,4 +1,3 @@
-package Functions;
 
 public class binaryToDecimal {
   public static void binToDeci(int n){
