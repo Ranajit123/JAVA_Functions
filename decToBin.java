@@ -1,4 +1,3 @@
-
 public class decToBin {
   public static void dToB(int n){
     while(n>0){

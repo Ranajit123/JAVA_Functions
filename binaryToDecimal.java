@@ -1,4 +1,3 @@
-
 public class binaryToDecimal {
   public static void binToDeci(int n){
     int pow =0;
