@@ -2,7 +2,7 @@ public class decToBin {
   public static void dToB(int n){
     while(n>0){
       int binNum = n%2;
-      System.out.println(binNum);
+      System.out.print(binNum+" ");
       n=n/2;
     }
 

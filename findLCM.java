@@ -5,7 +5,7 @@ public class findLCM {
   public static int LCM(int num1, int num2){
     int greater = Math.max(num1, num2);
     int smallest = Math.min(num1, num2);
-    for(int i =greater;;i+=greater){
+    for(int i =greater;;i+=greater){ // here condition is not given, that means codition is always true
       if(i%smallest == 0){
         return i;
       }
